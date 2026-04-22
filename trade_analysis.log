@@ -1,0 +1,12 @@
+2025-10-05 14:37:18,593 - src.data_collection - INFO - Generating sample trade data for demonstration
+2025-10-05 14:37:18,632 - src.data_collection - INFO - Generated sample data with 5832 records
+2025-10-05 14:37:18,678 - src.data_collection - INFO - Sample data saved to C:\Users\kabel\Desktop\black_market_analysis\data\raw\sample_trade_data.csv
+2025-10-05 14:37:18,703 - src.data_preprocessing - INFO - Data cleaning: 5832 -> 5832 records (0.0% removed)
+2025-10-05 14:37:18,737 - src.anomaly_detection - INFO - Detected 392 anomalies (6.7%)
+2025-10-05 14:50:54,466 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-10-05 14:50:54,478 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-10-05 14:58:29,072 - src.data_collection - INFO - Generating sample trade data for demonstration
+2025-10-05 14:58:29,122 - src.data_collection - INFO - Generated sample data with 5832 records
+2025-10-05 14:58:29,182 - src.data_collection - INFO - Sample data saved to C:\Users\kabel\Desktop\black_market_analysis\data\raw\sample_trade_data.csv
+2025-10-05 14:58:29,211 - src.data_preprocessing - INFO - Data cleaning: 5832 -> 5832 records (0.0% removed)
+2025-10-05 14:58:29,257 - src.anomaly_detection - INFO - Detected 392 anomalies (6.7%)
